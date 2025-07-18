@@ -1,6 +1,6 @@
 # Week 1 Java Projects
 
-Bu klasörde aşağıdaki projeler bulunmaktadır.
+Bu klasörde aşağıdaki proje bulunmaktadır.
 - 'Manav.Java': Manav fiyat hesaplama.
 
 ## Manav.Java
